@@ -1,0 +1,29 @@
+Task 8. Collectors (photo)
+
+The task: Build up a collection of scout scarves. First the base will take a picture of their scout scarves, all scarves open and taken in low res. After that the base will get in touch with other bases to manage a trade, but everything is virtual. The base must collect all scarves in its virtual album, following the criteria demanded in each album space and adding the name of the group’s donor, their city and state. There cannot be any repeated scarves. Go look for...
+
+	•	Virtual album space #1 green and yellow scarf
+	•	Virtual album space #2 scarf where it can be read a name of indian origin
+	•	Virtual album space #3 scarf with a compass
+	•	Virtual album space #4 squared scarf
+	•	Virtual album space #5 scarf of an African scout group
+	•	Virtual album space #6 scarf of a group numbered as 1
+	•	Virtual album space #7 scarf with a Baden-Powell picture
+	•	Virtual album space #8 red and green scarf
+	•	Virtual album space #9 squared fabric scarf, including kilt
+	•	Virtual album space #10 blue and yellow scarf
+	•	Virtual album space #11 an all-green scarf
+	•	Virtual album space #12 scarf from a Portuguese speaking country
+	•	Virtual album space #13 scarf of a group that has the same name of the city they’re in
+	•	Virtual album space #14 brown scarf with any other color
+	•	Virtual album space #15 scarf from a country in Central America
+	•	Virtual album space #16 scarf seamed with a black fabric
+	•	Virtual album space #17 scarf from an Asian Country
+	•	Virtual album space #18 An all white scarf (except for the colors in the group logo)
+	•	Virtual album space #19 scarf where seams cross on its back - it has to form an x shape, no matter which color
+	•	Virtual album space #20 a scarf from any trade that may or may not match the criteria above.
+
+Evaluation criteria:
+1- 5 points per scarf that meets the requirements above.
+
+Grading methodology: manual
